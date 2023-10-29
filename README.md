@@ -2,7 +2,7 @@
 
 #Descripción: Un compilador moderno cuyo desarrollo fue basado en los principios y técnicas descritos en el clásico "Dragon Book" ("Compiladores: Principios, Técnicas y Herramientas"). Cabe recalcar
 
-#![Purple_dragon_book_b](https://github.com/Mecht21/Compilador-Java/assets/109832204/0d17e7de-db07-4b5e-90de-0ea1723ad9ba)
+![Purple_dragon_book_b](https://github.com/Mecht21/Compilador-Java/assets/109832204/0d17e7de-db07-4b5e-90de-0ea1723ad9ba)
 
 #Características
 #Análisis Léxico
