@@ -1,10 +1,13 @@
-# Compilador-Java
+#Compilador-Java
 
-#Descripción: Un compilador moderno cuyo desarrollo fue basado en los principios y técnicas descritos en el clásico "Dragon Book" ("Compiladores: Principios, Técnicas y Herramientas"). Cabe recalcar
+#Descripción: Un compilador moderno cuyo desarrollo fue basado en los principios y técnicas descritos en el clásico "Dragon Book" ("Compiladores: Principios, Técnicas y Herramientas").
+
 
 ![Purple_dragon_book_b](https://github.com/Mecht21/Compilador-Java/assets/109832204/0d17e7de-db07-4b5e-90de-0ea1723ad9ba)
 
+
 #Características
+
 #Análisis Léxico
 
 #    Reconocimiento de Tokens: Utiliza autómatas finitos determinísticos para reconocer patrones en el código fuente y traducirlos en tokens.
@@ -33,6 +36,6 @@
 #    Gestión de Memoria: Asigna y gestiona memoria para variables y estructuras de datos.
 #    Manejo de Errores en Tiempo de Ejecución: Genera código que puede detectar y manejar errores durante la ejecución, como división por cero o acceso fuera de límites en arrays.
 
-#Lenguaje Fuente
+# Lenguaje Fuente
 
-#Este compilador es para el lenguaje de Java.
+# Este compilador es para el lenguaje de Java.
